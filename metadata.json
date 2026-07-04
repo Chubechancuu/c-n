@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Vault - Cyberpunk Study Companion",
+  "description": "An Amber & Charcoal styled cyberpunk workspace for students to conquer deadlines. Features a customizable focus timer, gamified Mochi Coin rewards, a free-form diary, avatar border shop, weekly leaderboard, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
